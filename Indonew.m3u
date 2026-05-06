@@ -51,58 +51,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml" refresh="3600"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml"
 
-#EXTM3U url-tvg="https://link.zozotv.xyz/epgtvku.xml refresh="3600"
-#EXTM3U x-url-tvg="https://link.zozotv.xyz/epgtvku.xml"
-
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml refresh="3600"
-#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml"
-
-#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600"
-#EXTM3U x-url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"
-
-#EXTM3U url-tvg="https://epg.kampung.xyz/IPTV.xml.gz"
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/indihometv.com.xml"
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml" 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/mncvision.id.xml"
-#EXTM3U url-tvg="https://epg.ksa.my.id/ksa.xml"
-#EXTM3U url-tvg="https://link.zozotv.xyz/epgtvku.xml"
-#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz"
-#EXTM3U url-tvg="https://github.com/apollo2000/TVGuide/raw/master/utc.xml.gz"
-#EXTM3U url-tvg="https://i.mjh.nz/nz/epg.xml" 
-#EXTM3U url-tvg="https://epg.kampung.xyz/IPTV.xml.gz"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/main/astro.xml"
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml"
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-#EXTM3U url-tvg="http://epg.urfan.web.id"
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz"
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml"
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml"
-
-#EXTM3U url-tvg="http://aptv.my.id:8080/xmltv.php?username=mvstreams&password=epg&type=m3u_plus&output=hls"
-
-#EXTM3U url-tvg="http://epg.greatiptv.cc/iptv.xml.gz"
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" 
-#EXTM3U url-tvg="http://i.mjh.nz/nzau/epg.xml.gz"
-#EXTM3U url-tvg="http://keereeboon.streaming-fast.com/TIVIMATE/guide.xml"
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml"
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" 
-{#EXTM3U url-tvg="https://bit.ly/aqfadtvepg"}
-{#EXTM3U url-tvg="https://epg.ninja/epg/MISC/AUSoptus.xml"}
-{3680de59582949ec9ba83a9ca0754997} drm
-
-https://thefirefox12537.github.io/streams/epg/guide.xml.gz
-
-LoGo >> https://bit.ly/KiTV_LoGo
-
-
-
-===========================================================================================================
-
-
-
-
 #EXTM3U
 
 
