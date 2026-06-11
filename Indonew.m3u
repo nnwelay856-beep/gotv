@@ -1291,185 +1291,6 @@ https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/o
 #EXTINF:-1 tvg-id="ytv" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/ytv.png" group-title="Kids",YTV
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 
-____________________________cartoon___________________________________________&__
-
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",FuckIDTOON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.10
-http://49.0.64.96:8007/Cartoonumi
-
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://www.fileinw.com/postor/20240429213651FWTOON.jpg",FWTOON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.10
-https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:-1 group-title="Cartoon" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",CARTOON NETWORK (TH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
-
-#EXTINF:-1 group-title="Cartoon" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",CARTOONITO (TH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
-
-#EXTINF:-1 group-title="Cartoon" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",NICKELODEON (TH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
-
-#EXTINF:-1 group-title="Cartoon" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png",NICK JUNIOR (TH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
-
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",Nick Jr
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
-
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png",TRUE DreamWorks
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
-
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png",TRUE SPARK PLAY
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
-
-#EXTINF:-1 tvg-id="Cartoon.Net.HD.uk" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Cartoon",Cartoon Network HD
-http://panel.sulu1.cc:2052/travis1/travis1/15315
-#EXTINF:-1 tvg-id="Cartoon.Network.ENG.se" tvg-name="Cartoon Network FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Cartoon",Cartoon Network FHD
-http://panel.sulu1.cc:2052/travis1/travis1/3227
-
-#EXTINF:-1 tvg-id="cartoonnetworkplus1.uk" tvg-name="Cartoon Network +1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Cartoon_Network_%2B1_2014.svg/revision/latest/scale-to-width-down/300?cb=20200901090926" group-title="Cartoon",Cartoon Network +1
-http://panel.sulu1.cc:2052/travis1/travis1/1131
-#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Cartoon",Boomerang HD
-http://panel.sulu1.cc:2052/travis1/travis1/3225
-#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="Boomerang FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Cartoon",Boomerang FHD
-http://panel.sulu1.cc:2052/travis1/travis1/3242
-#EXTINF:-1 tvg-id="boomerangplus1.uk" tvg-name="Boomerang +1" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/11/Boomerang-1.png" group-title="Cartoon",Boomerang +1
-http://panel.sulu1.cc:2052/travis1/travis1/3243
-#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="Nickelodeon HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Nickelodeon_Splat_2023_Sin_Fondo.png/revision/latest/scale-to-width-down/250?cb=20230810205054&path-prefix=es" group-title="Cartoon",Nickelodeon HD
-http://panel.sulu1.cc:2052/travis1/travis1/1115
-#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="Nickelodeon FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Nickelodeon_Splat_2023_Sin_Fondo.png/revision/latest/scale-to-width-down/250?cb=20230810205054&path-prefix=es" group-title="Cartoon",Nickelodeon FHD
-http://panel.sulu1.cc:2052/travis1/travis1/3244
-#EXTINF:-1 tvg-id="nickelodeonplus1.uk" tvg-name="Nickelodeon +1" tvg-logo="https://static.wikia.nocookie.net/logopedia-fanon/images/6/62/Nickelodeon_%2B1_2023.png/revision/latest?cb=20240510000513" group-title="Cartoon",Nickelodeon +1
-http://panel.sulu1.cc:2052/travis1/travis1/3237
-#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nicktoons HD" tvg-logo="http://www.tmsimg.com/assets/s31168_ll_h3_aa.png" group-title="Cartoon",Nicktoons HD
-http://panel.sulu1.cc:2052/travis1/travis1/3234
-#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nicktoons FHD" tvg-logo="http://www.tmsimg.com/assets/s31168_ll_h3_aa.png" group-title="Cartoon",Nicktoons FHD
-http://panel.sulu1.cc:2052/travis1/travis1/3235
-#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="Nick Jr. HD" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/2/2c/Nick_Jr_2023.webp/revision/latest?cb=20240128235839" group-title="Cartoon",Nick Jr. HD
-http://panel.sulu1.cc:2052/travis1/travis1/3239
-#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="Nick Jr. FHD" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/2/2c/Nick_Jr_2023.webp/revision/latest?cb=20240128235839" group-title="Cartoon",Nick Jr. FHD
-http://panel.sulu1.cc:2052/travis1/travis1/1119
-#EXTINF:-1 tvg-id="nickjrtoo.uk" tvg-name="Nick Jr. too HD" tvg-logo="http://www.tmsimg.com/assets/s50269_ll_h3_aa.png" group-title="Cartoon",Nick Jr. too HD
-http://panel.sulu1.cc:2052/travis1/travis1/3230
-#EXTINF:-1 tvg-id="nickjrtoo.uk" tvg-name="Nick Jr. too FHD" tvg-logo="http://www.tmsimg.com/assets/s50269_ll_h3_aa.png" group-title="Cartoon",Nick Jr. too FHD
-http://panel.sulu1.cc:2052/travis1/travis1/3232
-#EXTINF:-1 tvg-id="skykids.uk" tvg-name="Sky Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Sky_Kids_logo_2023.svg/2560px-Sky_Kids_logo_2023.svg.png" group-title="Cartoon",Sky Kids HD
-http://panel.sulu1.cc:2052/travis1/travis1/1121
-#EXTINF:-1 tvg-id="skykids.uk" tvg-name="Sky Kids FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Sky_Kids_logo_2023.svg/2560px-Sky_Kids_logo_2023.svg.png" group-title="Cartoon",Sky Kids FHD
-http://panel.sulu1.cc:2052/travis1/travis1/3245
-#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="CBBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/1200px-CBBC_%282023%29.svg.png" group-title="Cartoon",CBBC HD
-http://panel.sulu1.cc:2052/travis1/travis1/1122
-#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="CBBC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/1200px-CBBC_%282023%29.svg.png" group-title="Cartoon",CBBC FHD
-http://panel.sulu1.cc:2052/travis1/travis1/3248
-#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="CBeebies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/1200px-CBeebies_2023.svg.png" group-title="Cartoon",CBeebies HD
-http://panel.sulu1.cc:2052/travis1/travis1/1124
-#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="CBeebies FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/1200px-CBeebies_2023.svg.png" group-title="Cartoon",CBeebies FHD
-http://panel.sulu1.cc:2052/travis1/travis1/3228
-#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="Cartoonito HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/cartoonito-uk.png?raw=true" group-title="Cartoon",Cartoonito HD
-http://panel.sulu1.cc:2052/travis1/travis1/1125
-#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="Cartoonito FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/cartoonito-uk.png?raw=true" group-title="Cartoon",Cartoonito FHD
-http://panel.sulu1.cc:2052/travis1/travis1/3233
-
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 1
-http://panel.sulu1.cc:2052/travis1/travis1/90039
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 2
-http://panel.sulu1.cc:2052/travis1/travis1/90040
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 3
-http://panel.sulu1.cc:2052/travis1/travis1/90041
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 4
-http://panel.sulu1.cc:2052/travis1/travis1/90042
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 5
-http://panel.sulu1.cc:2052/travis1/travis1/90043
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 6
-http://panel.sulu1.cc:2052/travis1/travis1/90044
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 7
-http://panel.sulu1.cc:2052/travis1/travis1/90045
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 8
-http://panel.sulu1.cc:2052/travis1/travis1/90046
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 9
-http://panel.sulu1.cc:2052/travis1/travis1/90047
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 10
-http://panel.sulu1.cc:2052/travis1/travis1/90048
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 11" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 11
-http://panel.sulu1.cc:2052/travis1/travis1/90049
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 12" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 12
-http://panel.sulu1.cc:2052/travis1/travis1/90050
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 13" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 13
-http://panel.sulu1.cc:2052/travis1/travis1/90051
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 14" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 14
-http://panel.sulu1.cc:2052/travis1/travis1/90052
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 15" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 15
-http://panel.sulu1.cc:2052/travis1/travis1/90053
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 16" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 16
-http://panel.sulu1.cc:2052/travis1/travis1/90054
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 17" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 17
-http://panel.sulu1.cc:2052/travis1/travis1/90055
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 18" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 18
-http://panel.sulu1.cc:2052/travis1/travis1/90056
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 19" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 19
-http://panel.sulu1.cc:2052/travis1/travis1/90057
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 20" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 20
-http://panel.sulu1.cc:2052/travis1/travis1/90058
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 90's 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 90's 1
-http://panel.sulu1.cc:2052/travis1/travis1/90059
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 90's 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 90's 2
-http://panel.sulu1.cc:2052/travis1/travis1/90060
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 90's 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 90's 3
-http://panel.sulu1.cc:2052/travis1/travis1/90061
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 90's 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 90's 4
-http://panel.sulu1.cc:2052/travis1/travis1/90062
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation 90's 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation 90's 5
-http://panel.sulu1.cc:2052/travis1/travis1/90063
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation Classic 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation Classic 1
-http://panel.sulu1.cc:2052/travis1/travis1/90064
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation Classic 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation Classic 2
-http://panel.sulu1.cc:2052/travis1/travis1/90065
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation Classic 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation Classic 3
-http://panel.sulu1.cc:2052/travis1/travis1/90066
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation Classic 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation Classic 4
-http://panel.sulu1.cc:2052/travis1/travis1/90067
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation Classic 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation Classic 5
-http://panel.sulu1.cc:2052/travis1/travis1/90068
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation Classic 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation Classic 6
-http://panel.sulu1.cc:2052/travis1/travis1/90069
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation Classic 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation Classic 7
-http://panel.sulu1.cc:2052/travis1/travis1/90070
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="Animation Classic 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-animation-vod.png?raw=true" group-title="Cartoon",Animation Classic 8
-http://panel.sulu1.cc:2052/travis1/travis1/90071
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 1
-http://panel.sulu1.cc:2052/travis1/travis1/90072
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 2
-http://panel.sulu1.cc:2052/travis1/travis1/90073
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 3
-http://panel.sulu1.cc:2052/travis1/travis1/90074
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 4
-http://panel.sulu1.cc:2052/travis1/travis1/90075
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 5
-http://panel.sulu1.cc:2052/travis1/travis1/90076
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 6
-http://panel.sulu1.cc:2052/travis1/travis1/90077
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 7
-http://panel.sulu1.cc:2052/travis1/travis1/90078
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 8
-http://panel.sulu1.cc:2052/travis1/travis1/90079
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 9
-http://panel.sulu1.cc:2052/travis1/travis1/90080
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 10
-http://panel.sulu1.cc:2052/travis1/travis1/90081
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 11" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 11
-http://panel.sulu1.cc:2052/travis1/travis1/90082
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="KIDS 12" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/kids-vod.png?raw=true" group-title="Cartoon",KIDS 12
-http://panel.sulu1.cc:2052/travis1/travis1/90083
 
 
 <=================== HBO ===================>
@@ -1516,8 +1337,6 @@ http://212.102.60.231/HBO/index.m3u8
 
 #EXTINF:-1 group-title="HBO" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO Fams 🇺🇸
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-
-
 
 #EXTINF:0 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="HBO",HBO TRV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1633,18 +1452,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
 
 
-EXTINF:-1 tvg-logo="https://iili.io/JV3xSnt.png" group-title="News",CNN
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8|user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/JMp3DJf.png",TVRI Parlemen
-
-#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-url="" tvg-logo="https://i.ibb.co.com/jyJ1TG0/latest-1.png" group-title="News",Berita satu
-http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=http://dens.tv
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/NHK_E_2024.png/revision/latest?cb=20240607212927" group-title="News",NHK EDUCATION
-
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1685,19 +1492,12 @@ https://d1ebgtxjo246w3.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/in
 
 
 
-
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f699274d40f479d89804912c134830d:352d8c910649b4d332047cf2833bb43f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="News" tvg-id="NHKWorldPremium" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium V+
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
-
-
-#EXTINF:-1 tvg-name="" tvg-id="FOX News - [Channel 335].id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/fox_news_channel.png" group-title="News",FOX News
-
-#EXTINF:-1 group-title="News" tvg-id="DWEnglish" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/ec5ca17f/9a41_r32.jpg",DW
 
 #EXTINF:-1 group-title="News" tvg-id="DWEnglish" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/ec5ca17f/9a41_r32.jpg",DW
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1707,16 +1507,11 @@ https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mpd/DwEnglishHD.mpd
 
 
 #EXTINF:-1 group-title="News" tvg-id="France24English" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/feee5d98/3c51_r32.jpg",France 24
-
-#EXTINF:-1 group-title="News" tvg-id="France24English" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/feee5d98/3c51_r32.jpg",France 24
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68
 https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mpd/France24.mpd
 
-#EXTINF:-1 group-title="News" tvg-id="Euronews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png",Euronews
-
-#EXTINF:-1 group-title="News" tvg-id="Euronews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png",Euronews
 
 #EXTINF:-1 group-title="News" tvg-id="Euronews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png",Euronews
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1726,19 +1521,10 @@ https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mpd/EURONEWS.mpd
 
 
 #EXTINF:-1 group-title="News" tvg-id="TRT World" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://static.mncnow.id/images/channel/ab7f9e6a/4023_r32.jpg",TRT World
-
-#EXTINF:-1 group-title="News" tvg-id="TRT World" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://static.mncnow.id/images/channel/ab7f9e6a/4023_r32.jpg",TRT World
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c325414b6254a3ba4bcb2a31d4b1318:ae6c5d2b86727b478da73ffd0795c417
 https://atemeshield1-voe.sysln.id/live/eds/TRTWorldHD/mpd/TRTWorldHD.mpd
-
-#EXTINF:-1 group-title="News" tvg-id="CNBCAsia.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnbc.png",CNBC Asia
-
-
-#EXTINF:-1 group-title="News" tvg-id="CNA.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/f36bdbf0/d7d8_r32.jpg",CNA
-
-
 
 
 <=================================================== Entertainment=========================================>
