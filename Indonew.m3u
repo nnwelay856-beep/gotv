@@ -8,8 +8,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/warningfm/x1/refs/heads/master/epg/guide.xml.gz,"refresh="3600"
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
 
-#EXTM3U billed-msg="📌 by KiNoy >>> PlayList No Public - Khusus untuk Member 📺 KiTV - PlayList ini didapat dari berbagai Sumber 💯% Free !!! -- !!! Selamat Menyaksikan !!!"
-#EXTM3U billed-till="Unlimited"
+#EXTM3U
 
 
 
