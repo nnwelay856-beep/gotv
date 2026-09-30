@@ -7,27 +7,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/guide.xml.gz,"refresh="3600"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/warningfm/x1/refs/heads/master/epg/guide.xml.gz,"refresh="3600"
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
-
-#EXTM3U
-
-
-
-██╗░░██╗██╗████████╗██╗░░░██╗          ███╗░░██╗░█████╗░  ░██████╗██╗░██████╗░███╗░░██╗░█████╗░██╗
-██║░██╔╝░░║╚══██╔══╝██║░░░██║          ████╗░██║██╔══██╗  ██╔════╝░░║██╔════╝░████╗░██║██╔══██╗██║
-█████═╝░██║   ██║   ╚██╗░██╔╝  █████╗  ██╔██╗██║██║░░██║  ╚█████╗░██║██║░░██╗░██╔██╗██║███████║██║
-██╔═██╗░██║   ██║    ╚████╔╝   ╚════╝  ██║╚████║██║░░██║  ░╚═══██╗██║██║░░╚██╗██║╚████║██╔══██║██║
-██║ ╚██╗██║   ██║     ╚██╔╝            ██║ ╚███║╚█████╔╝  ██████╔╝██║╚██████╔╝██║ ╚███║██║  ██║███████╗
-╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝             ╚═╝  ╚══╝ ╚════╝   ╚═════╝ ╚═╝ ╚═════╝ ╚═╝  ╚══╝╚═╝  ╚═╝╚══════╝
-
-
-
-
-===========================================================================================================
-
-
-
-#https://12537-stream-ip-tv.xyz/epg/general/guide.xml.gz, https://weareblahs.github.io/epg/mytv.xml, https://iptv-org.github.io/epg/guides/en/mncvision.id.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.xml, https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600"
-#https://rebrand.ly/epgrepublictv1 , https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="3600"
+" refresh="3600"
 
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml"
